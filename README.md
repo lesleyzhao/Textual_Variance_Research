@@ -1,7 +1,9 @@
 # **Textual Variance and Speed Analysis using BERT**
 
 ## 📌 **Project Overview**
-This project explores the relationship between **text speed, circuitousness, and engagement** in **brand social media posts**. By leveraging **BERT transformers** and **word embedding techniques**, we analyze how text structure influences user engagement across **60K+ tweets and Instagram posts**.
+This project explores the relationship between **text speed, circuitousness, and engagement** in **brand social media posts**. By leveraging **BERT transformers** and **word embedding techniques**, we analyze how text structure influences user engagement across **60K+ tweets and Instagram posts**. This work was conducted under the guidance of Professor Jeffrey Lee as part of a research study on analyzing tweets and Instagram posts for luxury brands from 2022 Fall to 2023 Spring.
+
+
 
 ## 🏆 **Key Contributions**
 - **Developed a BERT-based model** to compute **text speed** and **circuitousness**, discovering that higher circuitousness and lower speed boost customer engagement.
