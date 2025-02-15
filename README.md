@@ -71,9 +71,3 @@ This project explores the relationship between **text speed, circuitousness, and
 - **Lesley Zhao** - [GitHub](https://github.com/lesleyzhao)
 - **Professor Jeffrey Lee** (Research Advisor)
 
-## 💚 **License**
-This project is licensed under the **MIT License**.
-
----
-
-📚 **Textual Variance and Speed Analysis** - Exploring the impact of **textual diversity on social media engagement**. 🌟
