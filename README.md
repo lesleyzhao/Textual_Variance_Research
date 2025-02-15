@@ -30,6 +30,7 @@ This project explores the relationship between **text speed, circuitousness, and
  ├️ 📝 engagement_analysis.py # Engagement metric calculations
  ├️ 📝 BERT_model.py        # BERT-based text circuitousness computation
 ```
+Notice ⚠️： some of the .py files and data might be missing in this repository, as they require access permission from the professor. However, running the .ipynb file relies on these. Please request access from Professor Jeffrey Lee if needed.
 
 ## 🔍 **Methodology**
 1. **Data Collection**:
